@@ -8,7 +8,6 @@
 .env.localにする
 
 
-`admin, ok365a1`
 
 - sample databaseを投入
 
